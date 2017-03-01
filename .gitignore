@@ -1,0 +1,9 @@
+# image data folders
+data/
+
+*.pyc
+
+*.npy
+*.h5
+*.zip
+*.tar.gz
